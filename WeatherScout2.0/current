@@ -1,0 +1,17 @@
+wind_mph = response.wind_mph 
+wind_kph = response.wind_kph 
+wind_degree = response.wind_degree 
+wind_dir = response.wind_dir 
+pressure_mb = response.pressure_mb 
+pressure_in = response.pressure_in 
+precip_mm = response.precip_mm 
+precip_in = response.precip_in 
+humidity = response.humidity 
+cloud = response.cloud 
+feelslike_c = response.feelslike_c 
+feelslike_f = response.feelslike_f 
+vis_km = response.vis_km 
+vis_mile = response.vis_mile 
+gust_kph = response.gust_kph 
+uv = response.uv 
+gust_mph = response.gust_mph 
